@@ -9,7 +9,7 @@ Gather and clean data from the online databases, such as public fraud data and c
 Select and transform the relevant features that are most predictive of online fraud, such as transaction amount, transaction location, customer device, and time of day.
 
 ### - Model selection and training: 
-Evaluate logistic regression model, to identify the performance of model.
+Evaluate logistic regression model, to get the performance of model.
 
 ### - Model evaluation and optimization: 
 Validate the model's performance using statistical metrics, such as accuracy, precision, recall, and F1 score.

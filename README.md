@@ -5,7 +5,7 @@ The aim of this project is to develop a machine learning model to detect online 
 ### - Data collection: 
 Gather and clean data from the online databases, such as public fraud data and customer behavior data.
 
-### Feature engineering: 
+### - Feature engineering: 
 Select and transform the relevant features that are most predictive of online fraud, such as transaction amount, transaction location, customer device, and time of day.
 
 ### - Model selection and training: 
